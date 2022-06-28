@@ -1,4 +1,4 @@
-baseURL: https://blog.quleuber.dev/
+baseURL: https://blog.steinerkelvin.dev/
 languageCode: en-us
 title: Kelvin's Blog
 theme: PaperMod
@@ -46,7 +46,7 @@ params:
     #     safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "blog.quleuber.dev"
+        text: "blog.steinerkelvin.dev"
         # icon: /apple-touch-icon.png
         iconHeight: 35
 
@@ -72,11 +72,11 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/quleuber"
+          url: "https://github.com/steinerkelvin"
         - name: twitter
-          url: "https://twitter.com/quleuber"
+          url: "https://twitter.com/steinerkelvin"
         - name: stackoverflow
-          url: "https://stackoverflow.com/users/1967121/quleuber"
+          url: "https://stackoverflow.com/users/1967121/steinerkelvin"
 
     analytics:
         google:
@@ -92,7 +92,7 @@ params:
         hiddenInSingle: true  # hide on single page
 
     editPost:
-        URL: "https://github.com/quleuber/blog"
+        URL: "https://github.com/steinerkelvin/steinerkelvin.github.io"
         Text: "Suggest Changes"  # edit text
         appendFilePath: true  # to append file path to Edit link
 
