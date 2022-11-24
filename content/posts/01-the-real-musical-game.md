@@ -27,7 +27,7 @@ sentences and paragraphs, i.e. melodies, chord sequences, etc.
 And that is _lame_.
 
 While you can train the essential skill of understanding notes in the context of
-the key through something like the [Functional Year Training
+the key through something like the [Functional Ear Trainer
 app](https://play.google.com/store/apps/details?id=com.kaizen9.fet.android), I
 found a big problem with that approach: it's _very boring_. There's this big
 skill gap where you can't do anything interesting with the first intervals you
