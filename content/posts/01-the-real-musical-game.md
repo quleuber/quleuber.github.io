@@ -27,15 +27,17 @@ sentences and paragraphs, i.e. melodies, chord sequences, etc.
 And that is _lame_.
 
 While you can train the essential skill of understanding notes in the context of
-the key through something like the [Functional Year Training app, I found a big
-problem with that approach: it's _very boring_. There's this big skill gap where
-you can't do anything interesting with the first intervals you learn. I get no
-joy with it. (well... this probably happens with most skills, but ok).
+the key through something like the [Functional Year Training
+app](https://play.google.com/store/apps/details?id=com.kaizen9.fet.android), I
+found a big problem with that approach: it's _very boring_. There's this big
+skill gap where you can't do anything interesting with the first intervals you
+learn. I get no joy with it. (well... this probably happens with most skills,
+but ok).
 
 My gaming-programming-dopamine-flooded brain can't keep up with learning these
-very basic intervals _for months_ until I can do something interesting with them.
-Then, I realized that not only we can make _real_ game out of this, but it
-could be __extremely fun__.
+very basic intervals _for months_ until I can do something interesting with
+them. But then, I realized that not only could we make a _real_ game out of
+this, but it could be __extremely fun__.
 
 We have a bunch of musical games that are rhythm-based. Guitar Hero, Osu!, Crypt
 of the Necrodancer, Beat Saber, you name it. While being great, they have
