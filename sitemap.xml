@@ -2,14 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.steinerkelvin.dev/tags/game-idea/</loc>
+    <lastmod>2022-11-24T14:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://blog.steinerkelvin.dev/</loc>
+    <lastmod>2022-11-24T14:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://blog.steinerkelvin.dev/tags/music/</loc>
+    <lastmod>2022-11-24T14:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://blog.steinerkelvin.dev/posts/</loc>
+    <lastmod>2022-11-24T14:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://blog.steinerkelvin.dev/tags/</loc>
+    <lastmod>2022-11-24T14:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://blog.steinerkelvin.dev/posts/01-the-real-musical-game/</loc>
+    <lastmod>2022-11-24T14:00:00-03:00</lastmod>
+  </url><url>
     <loc>https://blog.steinerkelvin.dev/archives/</loc>
   </url><url>
     <loc>https://blog.steinerkelvin.dev/categories/</loc>
   </url><url>
-    <loc>https://blog.steinerkelvin.dev/</loc>
-  </url><url>
     <loc>https://blog.steinerkelvin.dev/search/</loc>
-  </url><url>
-    <loc>https://blog.steinerkelvin.dev/tags/</loc>
   </url>
 </urlset>
