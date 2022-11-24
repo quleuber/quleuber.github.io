@@ -1,7 +1,9 @@
 ---
 title: "The Real Musical Game"
-date: 2022-11-23T14:16:56-03:00
-draft: true
+date: 2022-11-24T14:00:00-03:00
+tags:
+  - game-idea
+  - music
 ---
 
 As I understand, music is like language. You have this written notation that you
