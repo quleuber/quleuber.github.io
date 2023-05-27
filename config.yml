@@ -30,11 +30,13 @@ params:
     ShowCodeCopyButtons: true
     disableSpecial1stPost: false
     disableScrollToTop: false
-    comments: false
+    comments: true
     hidemeta: false
     hideSummary: false
     showtoc: false
     tocopen: false
+    
+    disqusShortname: "steinerkelvin-dev"
 
     # assets:
     #     # disableHLJS: true # to disable highlight.js
