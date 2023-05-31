@@ -38,6 +38,9 @@ params:
     
     disqusShortname: "steinerkelvin-dev"
 
+    math: false
+    math_inline: true
+
     # assets:
     #     # disableHLJS: true # to disable highlight.js
     #     # disableFingerprinting: true
