@@ -3,6 +3,7 @@ title: "The Real Musical Game"
 date: 2022-11-24T14:00:00-03:00
 tags:
   - game-idea
+  - game-design
   - music
 ---
 
