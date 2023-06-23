@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.steinerkelvin.dev/tags/algorithms/</loc>
-    <lastmod>2022-11-24T14:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://blog.steinerkelvin.dev/tags/comp-sci/</loc>
-    <lastmod>2022-11-24T14:00:00-03:00</lastmod>
-  </url><url>
     <loc>https://blog.steinerkelvin.dev/tags/game-design/</loc>
     <lastmod>2022-11-24T14:00:00-03:00</lastmod>
   </url><url>
@@ -15,9 +9,6 @@
     <lastmod>2022-11-24T14:00:00-03:00</lastmod>
   </url><url>
     <loc>https://blog.steinerkelvin.dev/</loc>
-    <lastmod>2022-11-24T14:00:00-03:00</lastmod>
-  </url><url>
-    <loc>https://blog.steinerkelvin.dev/posts/xx-fewsnaps/</loc>
     <lastmod>2022-11-24T14:00:00-03:00</lastmod>
   </url><url>
     <loc>https://blog.steinerkelvin.dev/tags/music/</loc>

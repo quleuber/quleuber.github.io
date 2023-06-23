@@ -8,16 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Nov 2022 14:00:00 -0300</lastBuildDate><atom:link href="https://blog.steinerkelvin.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mantaining few snapshots</title>
-      <link>https://blog.steinerkelvin.dev/posts/xx-fewsnaps/</link>
-      <pubDate>Thu, 24 Nov 2022 14:00:00 -0300</pubDate>
-      
-      <guid>https://blog.steinerkelvin.dev/posts/xx-fewsnaps/</guid>
-      <description>While my friend Victor and I were writing Kindelia, he implemented a solution to maintain a set of snapshots of the network&amp;rsquo;s memory and challenged us to find an algorithm with the same properties, as — I believe — an attempt to validate his solution as he had never found a similar solution being described, much less named.
-The problem A computationally-heavy transaction is applied to the current state to get the next state ( $ S_{t+1} = f(S_t, x_t) ) $ at each time interval.</description>
-    </item>
-    
-    <item>
       <title>The Real Musical Game</title>
       <link>https://blog.steinerkelvin.dev/posts/01-the-real-musical-game/</link>
       <pubDate>Thu, 24 Nov 2022 14:00:00 -0300</pubDate>
