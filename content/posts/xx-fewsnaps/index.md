@@ -5,6 +5,7 @@ tags:
   - algorithms
   - comp-sci
 math: true
+draft: true
 ---
 
 While my friend [Victor] and I were writing [Kindelia], he implemented a
@@ -33,7 +34,9 @@ much less named.
   </figcaption>
 </figure>
 
-Example of an overlay file system.Similar to our layered data storage solution.[^1]
+|![Diagram of an overlay file system.](images/overlay-fs.jpg)|
+| :--- |
+| An overlay file system, similar to our layered data storage solution.[^1] |
 
 ## The Algorithm's properties
 
